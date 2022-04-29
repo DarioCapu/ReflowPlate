@@ -16,6 +16,6 @@ La [caracterización](https://docs.google.com/spreadsheets/d/1-RvlA-grsIiiUgjizp
 
 Medición de la resistencia en función de la temperatura
 
-[NTC resistencia](https://github.com/DarioCapu/ReflowPlate/blob/main/NTC/NTC_resistencia_vs_temperatura.png)
+![NTC resistencia](https://github.com/DarioCapu/ReflowPlate/blob/main/NTC/NTC_resistencia_vs_temperatura.png)
 
 Todas las imágenes de la caracterización están en el [drive](https://drive.google.com/drive/folders/1haFe0wOA7xZrg_-eInfIcUbAJK93i5PH?usp=sharing) :floppy_disk: :cloud: .
